@@ -1,2 +1,1 @@
-# ValidadorCPF
-Validador de CPF em JavaScript
+# gama-no-javascript-basico
